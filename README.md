@@ -82,7 +82,7 @@ The following figures document the construction and hardware layout of the swamp
 
 ### 7. Schematic / Block Diagram
 This diagram provides a high-level representation of the connections between the Arduino Mega and all system components.
-![Schematic Circuit](Virtual.jpg)
+![Schematic Circuit](images/Virtual.jpg)
 
 ### 8. Conclusion
 This project demonstrates the design and partial implementation of an embedded system based on a finite state machine approach. The swamp cooler integrates multiple sensors, actuators, and user inputs, and follows the required hardware safety practices and software constraints outlined in the course specifications. Each subsystem was implemented and validated individually, and the overall design reflects the embedded systems concepts developed throughout the course, including state-based control, register-level programming, and safe peripheral integration.
