@@ -4,6 +4,7 @@ Bousso Seck
 **Course:** CPE 301 – Embedded Systems Design  
 **University:** University of Nevada, Reno
 **Prject:**  Swamp Cooler (Evaporative Cooling System)
+
 **Team 44:** Bousso Seck
 
 ### 1. Project Description
