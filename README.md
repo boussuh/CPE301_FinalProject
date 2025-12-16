@@ -55,7 +55,7 @@ After individual validation, the system was integrated and tested as a whole. Al
 ###6. Circuit Images
 The following figures document the construction and hardware layout of the swamp cooler embedded system developed for this project.
 
-
+![Full Circuit](images/IMG_0143.jpg)
 **Figure 1:** Full circuit.
 
 
