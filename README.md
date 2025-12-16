@@ -79,7 +79,7 @@ The following figures document the construction and hardware layout of the swamp
 ![Fan Circuit](images/IMG_0157.jpg)
 **Figure 8:** Fan is working.
 
-###7. Schematic / Block Diagram
+### 7. Schematic / Block Diagram
 This diagram provides a high-level representation of the connections between the Arduino Mega and all system components.
 ![Schematic Circuit](schematic.jpg)
 
